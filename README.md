@@ -1,5 +1,5 @@
 # Mixed Message Generator
-> A simple script that generate 3 words quote.
+> A simple script that will generate 3 words quotes.
 
 ## Table of contents
 * [General info](#general-info)
@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-This is my first public project, an assignment of CodeAcademy course. 
+This is my first public project, an assignment for CodeAcademy course. 
 
 ## Technologies
 * Javascript
