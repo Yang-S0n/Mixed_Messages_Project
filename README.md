@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-This is my first public project, an assignment for CodeAcademy course. 
+This is my first public project, an assignment for Codecacademy course. 
 
 ## Technologies
 * Javascript
