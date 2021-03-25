@@ -1,5 +1,5 @@
 # Mixed Message Generator
-> A simple Javascript that generate 3 words quote.
+> A simple script that generate 3 words quote.
 
 ## Table of contents
 * [General info](#general-info)
@@ -22,7 +22,7 @@ This is my first public project, an assignment of CodeAcademy course.
 Run script.js with Git Bash
 
 ## Code Examples
-$ node script.js
+$ node script.js ->
 Daydream new best.
 
 ## Features
@@ -32,4 +32,4 @@ Daydream new best.
 Project is: _finished_
 
 ## Contact
-Created by [@Yang-S0n]- feel free to contact me!
+Created by [@Yang-S0n] - feel free to contact me!
